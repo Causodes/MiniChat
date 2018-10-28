@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\bin\Debug\Mini Chat Client.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\bin\Debug\Mini Chat Client.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\bin\Debug\Mini Chat Client.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\obj\Debug\Mini Chat Client.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\obj\Debug\Mini_Chat_Client.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\obj\Debug\Mini_Chat_Client.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\obj\Debug\Mini Chat Client.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\obj\Debug\Mini Chat Client.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Client\Mini Chat Client\obj\Debug\Mini Chat Client.pdb

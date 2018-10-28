@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Server\Mini Chat Server\bin\Debug\Mini Chat Server.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Server\Mini Chat Server\bin\Debug\Mini Chat Server.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Server\Mini Chat Server\bin\Debug\Mini Chat Server.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Server\Mini Chat Server\obj\Debug\Mini Chat Server.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Server\Mini Chat Server\obj\Debug\Mini Chat Server.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Mini Chat Server\Mini Chat Server\obj\Debug\Mini Chat Server.pdb
